@@ -1,0 +1,16 @@
+# ⚠️ Ignore the virtual environment
+venv/
+.env
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+*.log
+*.tmp
+.DS_Store
+.vscode/
+*.egg-info/
+pip-wheel-metadata/
+
